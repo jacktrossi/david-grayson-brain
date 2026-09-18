@@ -3,7 +3,7 @@ title: David Grayson
 status: expanded
 updated: 2026-09-18
 tags: [people, self]
-aliases: [David]
+aliases: [David, David Grayson]
 ---
 
 # David Grayson

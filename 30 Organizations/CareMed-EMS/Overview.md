@@ -3,7 +3,7 @@ title: CareMed EMS
 status: expanded
 updated: 2026-09-18
 tags: [org, ems, historical]
-aliases: [CareMed]
+aliases: [CareMed, CareMed EMS]
 ---
 
 # CareMed EMS

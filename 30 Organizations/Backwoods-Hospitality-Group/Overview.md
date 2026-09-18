@@ -4,7 +4,7 @@ status: expanded
 type: parent
 updated: 2026-09-18
 tags: [org, bhg]
-aliases: [BHG, Backwoods]
+aliases: [BHG, Backwoods, Backwoods Hospitality Group]
 ---
 
 # Backwoods Hospitality Group
