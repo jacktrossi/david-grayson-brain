@@ -21,7 +21,13 @@ tags: [skill, interview]
 
 ## Question arc
 
-1. Confirm: multi-org operator; BHG owns Whiskey Ranch → Estelle’s Diner → 1929 on Oxford Square — anything wrong?
+## Canonical venues (always this order)
+
+1. Whiskey Ranch
+2. Estelle’s (public name; discovery said “Diner”)
+3. 1929 (back bar at Estelle’s)
+
+Confirm: multi-org operator; BHG owns the three Square concepts; EMS Revenue Solutions is current consulting; CareMed sold 2022 — anything wrong?
 2. Role titles at Brewster, EMS, teaching — what should the vault say?
 3. Walk through a typical morning — what changed since discovery?
 4. VIP list: Mark Brewster, Jason Smith, Courtney Murphy — add/remove? How to handle each?

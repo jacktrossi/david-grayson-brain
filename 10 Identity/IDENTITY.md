@@ -1,7 +1,8 @@
 ---
 title: Identity
-status: seed
+status: expanded
 updated: 2026-09-18
+source: linkedin+public
 tags: [identity, david]
 ---
 
@@ -9,53 +10,56 @@ tags: [identity, david]
 
 ## Snapshot
 
-David Grayson is a multi-organization operator. His hospitality parent company is **Backwoods Hospitality Group**, which owns three restaurants on the Square in Oxford, Mississippi.
+**David Grayson** is an Oxford, Mississippi entrepreneur spanning **emergency medical services** and **hospitality**.
 
-He also operates across Brewster Ambulance (Boston — primary work email priority), EMS Revenue Solutions, and teaching roles at Colombia Southern and Sacred Heart.
+- CEO of [[Backwoods Hospitality Group]] — [[Whiskey Ranch]], [[Estelle’s]], [[1929]] on the Oxford Square
+- CEO of [[EMS Revenue Solutions]] — EMS reimbursement & compliance consulting
+- Founder/former CEO of [[CareMed EMS]] (sold to AmeriPro Health, July 2022)
+- Former VP Revenue Cycle / IT / Strategic Deployment at AmeriPro Health (Atlanta)
+
+LinkedIn: [david-grayson-519b713a](https://www.linkedin.com/in/david-grayson-519b713a)
+
+Mailing (public chamber): P.O. Box 1051, Oxford, MS 38655
+
+## Life map
+
+```text
+                    ┌─────────────────────────┐
+                    │     David Grayson       │
+                    └───────────┬─────────────┘
+            ┌───────────────────┼───────────────────┐
+            ▼                   ▼                   ▼
+   [[EMS Revenue Solutions]]  [[BHG]]         Civic / EMS boards
+   reimbursement/compliance   hospitality     MS EMS Advisory, etc.
+            ▲                   │
+   [[CareMed EMS]] → AmeriPro   ├── [[Whiskey Ranch]]
+   (founded/sold)               ├── [[Estelle’s]]
+                                └── [[1929]] (back bar)
+```
 
 ## Venues (canonical order)
 
-1. Whiskey Ranch
-2. Estelle’s Diner
-3. 1929
+1. [[Whiskey Ranch]] — country-western bar & grill  
+2. [[Estelle’s]] — Southern / French seasonal dining + brunch  
+3. [[1929]] — unmarked-door craft cocktail back bar at Estelle’s  
+
+Location hub: [[Oxford Square]]
 
 ## How he starts the day
 
-Phone + coffee → Toast (anomaly scan) → bank pulse → Personal Gmail → Brewster → other inboxes. Goal of this vault: collapse that into one Morning Brief.
+Phone + coffee → Toast → bank → Personal Gmail → work inboxes.  
+Goal: [[Morning Brief]] collapses the hop.
 
-## Decision style
+## Decision style / goals / voice prefs
 
-status: needs-david
-
-Capture via `60 Skills/interview-preferences.md` and `interview-onboarding.md`.
-
-## Voice by audience
-
-| Audience | Guidance | status |
-|----------|----------|--------|
-| VIP (Mark, Jason, Courtney) | Fast, respectful, high signal | needs-david |
-| Venue guests | Per brand kit in `40 Brands/` | seed |
-| Staff | Clear, operational | needs-david |
-| Vendors | Professional, concise | needs-david |
-| Students / teaching | Instructor-appropriate | needs-david |
-
-## Goals
-
-| Horizon | Goal | status |
-|---------|------|--------|
-| 90-day | needs-david | needs-david |
-| Annual | needs-david | needs-david |
-
-## Constraints & do-nots
-
-- Do not invent “Grayson Financial” or investment-advisory framing
-- Do not mix venue brands
-- Do not store passwords in this vault
+See [[Preferences]] — still partially `needs-david`. Public voice: operator, patient-care committed in EMS, entrepreneurially restless (hospitality + real estate + new ventures).
 
 ## Related
 
-- [[Preferences]]
+- [[Career]]
 - [[CLAUDE]]
 - [[AGENTS]]
 - People: `20 People/`
 - Orgs: `30 Organizations/`
+- Brands: `40 Brands/`
+- Public sources: `90 Sources/Public-Profile.md`

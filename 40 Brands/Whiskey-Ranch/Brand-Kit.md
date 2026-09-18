@@ -1,6 +1,6 @@
 ---
 title: Whiskey Ranch Brand Kit
-status: seed
+status: expanded
 venue_order: 1
 quality_bar: fable-5
 updated: 2026-09-18
@@ -9,82 +9,59 @@ tags: [brand, whiskey-ranch]
 
 # Whiskey Ranch — Brand Kit
 
-Venue 1 of 3 · Oxford Square · Parent: Backwoods Hospitality Group
+Venue 1 of 3 · [[Oxford Square]] · Parent: [[Backwoods Hospitality Group]] · Org: [[Whiskey Ranch]]
 
-**Quality bar:** Fable-5 intentional. Sparse. Premium. Coherent. Ban fake script-font-as-identity, purple gradients, stock “cheers” as the whole brand.
+**Quality bar:** Fable-5 intentional — sparse, premium, coherent. No generic western-clipart slop.
 
-## Positioning
+## Positioning (public + vault)
 
 | Field | Value |
 |-------|-------|
-| One-liner | needs-david |
-| Audience | needs-david |
-| Occasion | needs-david |
-| Differentiator on the Square | needs-david |
+| One-liner | Country-western bar & grill in the heart of the historic Oxford Square |
+| Audience | Locals + Ole Miss / Square nightlife — live music, late kitchen/bar |
+| Occasion | After-dinner drinks, live music nights, casual Southern plates, weekend daytime |
+| Differentiator | Louder western energy vs [[Estelle’s]] leisurely dining vs [[1929]] unmarked intimacy |
+
+Opened February 2025 by BHG.
 
 ## Brand story
 
-status: needs-david
+Historic Square stage. Southern plates + full bar + live music. “In the Heart of The Historic Oxford Square” (site).
 
-## Logo
+## Logo / color / type
 
-| Rule | Detail |
-|------|--------|
-| Primary lockup | needs-david — file in `Assets/` |
-| Clear space | needs-david |
-| Minimum size | needs-david |
-| Don’ts | Do not stretch, recolor arbitrarily, or place on busy photos without contrast check |
-
-## Color
-
-| Role | Hex | Usage |
-|------|-----|-------|
-| Primary | needs-david | |
-| Secondary | needs-david | |
-| Accent | needs-david | |
-| Background | needs-david | |
-| Text | needs-david | |
-
-## Typography
-
-| Role | Family | Notes |
-|------|--------|-------|
-| Display | needs-david | Never default to Inter/Roboto/Arial as the brand |
-| Body | needs-david | |
-| Optional mono | needs-david | |
+| Token | Value |
+|-------|-------|
+| Logo | needs-david — drop files in `Assets/` |
+| Primary / secondary / accent hex | needs-david |
+| Display / body type | needs-david — never Inter as the brand face |
 
 ## Photography
 
 | Direction | Detail |
 |-----------|--------|
-| Mood | needs-david |
-| Subjects | needs-david |
-| Lighting | needs-david |
-| Bans | Generic stock clinking glasses as hero identity; muddy low-contrast phone snaps for paid media |
+| Mood | Live energy, neon/wood/western texture, Square nights — not stock “cowboy emoji” |
+| Subjects | Guests, musicians, plates, bar pours, room |
+| Bans | Fake tumbleweed AI; purple gradient nightlife templates |
 
 ## Voice & copy
 
-| Channel | Sample / guidance |
-|---------|-------------------|
-| Menu blurbs | needs-david |
-| Instagram | needs-david |
-| Guest email | needs-david |
-| Signage | needs-david |
+| Channel | Guidance |
+|---------|----------|
+| Site / IG | Direct, warm, Square-proud; western without cartoon |
+| Menu | Southern comfort, clear, appetizing |
+| Guest recovery | Friendly, accountable — not Estelle’s literary tone |
 
-**Do not sound like:** Estelle’s Diner or 1929.
+**Do not sound like:** Estelle’s (literary / seasonal fine) or 1929 (quiet speakeasy).
 
 ## Applications
 
-Menus · social · website · uniforms · interior cues — status: needs-david for each.
+Web: [whiskeyranchoxford.com](https://www.whiskeyranchoxford.com/) · IG [@whiskeyranchoxford](https://instagram.com/whiskeyranchoxford/) · Toast menus · uniforms · patio/room — assets `needs-david`
 
-## Competitive neighbors
+## Competitive neighbors on the Square
 
-How Whiskey Ranch differs from Estelle’s and 1929: needs-david
+Opposite pole from Estelle’s/1929 fine-cocktail set — same ownership portfolio, different night.
 
-## Assets
+## Capture gaps
 
-`40 Brands/Whiskey-Ranch/Assets/` — logos, font refs, mood (empty until David supplies).
-
-## Capture
-
-Run `60 Skills/interview-brand-venue.md` with venue = Whiskey Ranch.
+`60 Skills/interview-brand-venue.md` · venue = Whiskey Ranch

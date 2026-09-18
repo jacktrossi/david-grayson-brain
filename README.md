@@ -1,21 +1,23 @@
 # David Grayson — Second Brain Vault
 
-Portable Obsidian vault / LLM project knowledge for **David Grayson**.
+Portable Obsidian / LLM project knowledge for **[David Grayson](https://www.linkedin.com/in/david-grayson-519b713a)**.
+
+Oxford, MS entrepreneur — **EMS** ([[EMS Revenue Solutions]], formerly [[CareMed EMS]]) + **hospitality** ([[Backwoods Hospitality Group]]).
 
 ## Start
 
-1. Open `00 Home/Dashboard.md`
-2. Read `CLAUDE.md` and `AGENTS.md`
+1. `00 Home/Dashboard.md`
+2. `CLAUDE.md` + `AGENTS.md`
 3. Say: **run onboarding interview**
 
 ## Venues (always this order)
 
-1. Whiskey Ranch  
-2. Estelle’s Diner  
-3. 1929  
+1. Whiskey Ranch — country-western bar & grill  
+2. Estelle’s — seasonal Southern / French dining  
+3. 1929 — unmarked back bar at Estelle’s  
 
-Parent: Backwoods Hospitality Group · Oxford Square, Oxford, MS
+## Repo
 
-## Not this project
+https://github.com/jacktrossi/david-grayson-brain
 
-Former “Grayson Financial OS” code lives in `_archive/`. That firm does not exist.
+Former fictional “Grayson Financial OS” scaffolding: `_archive/`.

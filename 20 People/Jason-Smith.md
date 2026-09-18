@@ -1,6 +1,6 @@
 ---
 title: Jason Smith
-status: seed
+status: expanded
 priority: high
 vip: true
 updated: 2026-09-18
@@ -13,13 +13,12 @@ tags: [people, vip]
 
 ## Relationship
 
-status: needs-david
+Discovery VIP. Firm / history: needs-david (`interview-people`).
 
 ## How to handle
 
-- Surface any message from Jason at the top of Morning Brief
-- Do not invent context — capture via `interview-people`
+Top of [[Morning Brief]]. No invented context.
 
-## Notes
+## Links
 
-status: needs-david
+[[Mark Brewster]] · [[Courtney Murphy]] · [[David Grayson]] identity

@@ -7,6 +7,10 @@ tags: [people, moc]
 
 # People
 
+## Principal
+
+- [[David Grayson]]
+
 ## VIPs (immediate)
 
 - [[Mark Brewster]]
@@ -15,4 +19,4 @@ tags: [people, moc]
 
 ## Add more
 
-Use `70 Templates/Person.md` and `60 Skills/interview-people.md`.
+`70 Templates/Person.md` · `60 Skills/interview-people.md`

@@ -1,6 +1,6 @@
 ---
 title: 1929 Brand Kit
-status: seed
+status: expanded
 venue_order: 3
 quality_bar: fable-5
 updated: 2026-09-18
@@ -9,81 +9,42 @@ tags: [brand, 1929]
 
 # 1929 — Brand Kit
 
-Venue 3 of 3 · Oxford Square · Parent: Backwoods Hospitality Group
+Venue 3 of 3 · [[Oxford Square]] · Parent: [[Backwoods Hospitality Group]] · Org: [[1929]]  
+Lives behind an **unmarked door** at [[Estelle’s]].
 
-**Quality bar:** Fable-5 intentional. Sparse. Premium. Coherent. Period nostalgia only if David confirms — never default “speakeasy AI” pastiche.
+**Quality bar:** Fable-5 intentional. Speakeasy without pastiche overload.
 
-## Positioning
+## Positioning (public)
 
 | Field | Value |
 |-------|-------|
-| One-liner | needs-david |
-| Audience | needs-david |
-| Occasion | needs-david |
-| Differentiator on the Square | needs-david |
+| One-liner | Estelle’s back bar — craft cocktails and a story of its own behind an unmarked door |
+| Audience | Cocktail-forward guests; sports/events on big screens; walk-in seekers |
+| Occasion | Nightcap, craft cocktails, linger after (or instead of) dinner |
+| Access | First-come, first-served — **no Resy / no advance reservations** |
+| Differentiator | Hidden from street; nested in Estelle’s; distinct from Ranch volume |
 
 ## Brand story
 
-status: needs-david
+Unmarked door. Speakeasy / relaxing atmosphere (Resy notes). Year **1929** as name — confirm historical hook with David (`needs-david`); don’t invent Faulkner lore that belongs only to Estelle’s dining room.
 
-## Logo
+## Logo / color / type
 
-| Rule | Detail |
-|------|--------|
-| Primary lockup | needs-david — file in `Assets/` |
-| Clear space | needs-david |
-| Minimum size | needs-david |
-| Don’ts | No stretch; no borrowing other venue marks |
-
-## Color
-
-| Role | Hex | Usage |
-|------|-----|-------|
-| Primary | needs-david | |
-| Secondary | needs-david | |
-| Accent | needs-david | |
-| Background | needs-david | |
-| Text | needs-david | |
-
-## Typography
-
-| Role | Family | Notes |
-|------|--------|-------|
-| Display | needs-david | |
-| Body | needs-david | |
+needs-david — darker, quieter, more nocturnal than Estelle’s dining room; never Whiskey Ranch western.
 
 ## Photography
 
-| Direction | Detail |
-|-----------|--------|
-| Mood | needs-david |
-| Subjects | needs-david |
-| Lighting | needs-david |
-| Bans | needs-david |
+Low light, glassware, unmarked threshold, intimate rooms — not Ranch stage shots.
 
 ## Voice & copy
 
-| Channel | Sample / guidance |
-|---------|-------------------|
-| Menu blurbs | needs-david |
-| Instagram | needs-david |
-| Guest email | needs-david |
-| Signage | needs-david |
-
-**Do not sound like:** Whiskey Ranch or Estelle’s Diner.
+Whispered invitation (“ask about our back bar”), craft-forward, fewer words.  
+**Do not** use Estelle’s brunch voice or Ranch country banter.
 
 ## Applications
 
-Menus · social · website · uniforms · interior cues — status: needs-david
+Mentioned on Estelle’s site; seating FCFS; Toast if separate center.
 
-## Competitive neighbors
+## Capture gaps
 
-How 1929 differs from Whiskey Ranch and Estelle’s: needs-david
-
-## Assets
-
-`40 Brands/1929/Assets/`
-
-## Capture
-
-Run `60 Skills/interview-brand-venue.md` with venue = 1929.
+`interview-brand-venue` · venue = 1929

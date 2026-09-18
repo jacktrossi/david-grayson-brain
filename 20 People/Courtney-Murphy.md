@@ -1,6 +1,6 @@
 ---
 title: Courtney Murphy
-status: seed
+status: expanded
 priority: high
 vip: true
 updated: 2026-09-18
@@ -13,13 +13,12 @@ tags: [people, vip]
 
 ## Relationship
 
-status: needs-david
+Discovery VIP. LinkedIn activity graph around David has referenced Courtney in leadership pride posts (public) — confirm role/org with David; do not over-infer.
 
 ## How to handle
 
-- Surface any message from Courtney at the top of Morning Brief
-- Capture detail via `60 Skills/interview-people.md`
+Top of [[Morning Brief]]. Capture via `interview-people`.
 
-## Notes
+## Links
 
-status: needs-david
+[[Mark Brewster]] · [[Jason Smith]]

@@ -9,29 +9,32 @@ tags: [identity, preferences]
 
 Fill via `60 Skills/interview-preferences.md`. Do not invent values.
 
+## Known public posture (not private prefs)
+
+- Operator / entrepreneur across EMS + hospitality  
+- Deep commitment to excellence in patient care (LinkedIn — EMS lane)  
+- Civic EMS leadership — see [[Career]]  
+
 ## AI behavior
 
 - Preferred response length: needs-david
 - When to ask vs act: needs-david
-- Notification thresholds: needs-david
+- Notification thresholds: needs-david (VIPs always urgent — [[Mark Brewster]], [[Jason Smith]], [[Courtney Murphy]])
 
 ## Communication
 
-- Default tone: needs-david
-- Sign-off patterns: needs-david
-- Things that feel “off brand” for David: needs-david
+- Default tone: needs-david  
+- Guest-facing: always load venue brand kit  
 
 ## Tasks & systems
 
-- Primary task system today: Todoist + Outlook Tasks + paper (fragmented — from discovery)
-- Desired unified system: needs-david
-- Preferred delivery (phone / Slack / other): needs-david
+- Discovery: Todoist + Outlook Tasks + paper (fragmented)  
+- Desired unified system: needs-david  
 
 ## Travel
 
-- Frequency / pain points: needs-david
-- Airlines / hotels / seat: needs-david
+needs-david
 
 ## Toast & ops
 
-- “Normal” vs “fire” per venue: see `30 Organizations/Backwoods-Hospitality-Group/Toast.md` (filled by `interview-ops-morning`)
+See [[Toast]] — normal vs fire via `interview-ops-morning`

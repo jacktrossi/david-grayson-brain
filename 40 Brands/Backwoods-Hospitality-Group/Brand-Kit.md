@@ -1,6 +1,6 @@
 ---
 title: BHG Brand Architecture
-status: seed
+status: expanded
 quality_bar: fable-5
 updated: 2026-09-18
 tags: [brand, parent]
@@ -8,45 +8,36 @@ tags: [brand, parent]
 
 # Backwoods Hospitality Group — Brand Architecture
 
-**Quality bar:** Same outcome as if Fable 5 designed it — intentional, sparse, premium, coherent. No generic restaurant AI slop.
+**CEO / face:** [[David Grayson]]  
+**Quality bar:** Fable-5 — intentional, sparse, premium, coherent.
 
 ## Role of the parent
 
-BHG is the operating parent. Guest-facing brands are the three venues. Parent identity appears on internal ops, hiring, vendor, and group communications — not as a fourth restaurant brand.
+BHG is the **operating parent**. Guests meet **venue brands**, not a fourth restaurant called Backwoods.
 
-## Venue brands (canonical order)
+Parent surfaces: hiring, vendors, chamber, group ops, Toast portfolio, investor/partner context.
 
-1. `40 Brands/Whiskey-Ranch/` — distinct voice and visual world
-2. `40 Brands/Estelles-Diner/` — distinct voice and visual world
-3. `40 Brands/1929/` — distinct voice and visual world
+## Portfolio (canonical order)
 
-**Hard rule:** Never mix venue kits.
+1. [[Whiskey Ranch]] — western bar & grill energy  
+2. [[Estelle’s]] — seasonal Southern/French dining + brunch  
+3. [[1929]] — unmarked back bar (nested in Estelle’s)  
 
-## Parent positioning
+Shared geography: [[Oxford Square]] · 1112 Van Buren Ave
 
-status: needs-david
+## Architecture rule
 
-One-liner: needs-david
+| Layer | Owns |
+|-------|------|
+| BHG | Ops, legal, Toast config, hiring, CEO |
+| Venue kits | Guest voice, visual, social, menu design |
 
-## Parent visual system
+Never mix venue kits. Cross-promote carefully (“ask about 1929” from Estelle’s is OK; Ranch voice on Estelle’s posts is not).
 
-| Token | Value |
-|-------|-------|
-| Primary | needs-david |
-| Secondary | needs-david |
-| Accent | needs-david |
-| Neutrals | needs-david |
-| Display type | needs-david |
-| Body type | needs-david |
+## Parent visual / voice
 
-## Voice (parent / group)
+needs-david — interview or supply Assets/
 
-status: needs-david
+## Related LLCs (public registry)
 
-## Assets
-
-Place logos and references in `Assets/`. Do not invent marks.
-
-## How venues relate
-
-status: needs-david — capture why a guest picks Whiskey Ranch vs Estelle’s vs 1929 on the same Square.
+Backwoods Hospitality Group LLC · BHG–Oxford LLC · BHG–Starkville LLC (agent: David Grayson) — Starkville concept status `needs-david`

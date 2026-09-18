@@ -1,6 +1,6 @@
 ---
 title: Mark Brewster
-status: seed
+status: expanded
 priority: high
 vip: true
 updated: 2026-09-18
@@ -13,15 +13,17 @@ tags: [people, vip]
 
 ## Relationship
 
-status: needs-david
+Discovery: VIP requiring top-of-brief treatment.  
+Name may relate to “Brewster” in discovery’s high-priority O365 account — **do not assume** David is employed by Brewster Ambulance (see [[Brewster Ambulance]] — unverified vs LinkedIn).
 
-Context from discovery: VIP contact requiring top-of-brief treatment.
+Clarify via `interview-people`: firm, history with David, preferred handling.
 
 ## How to handle
 
-- Surface any message from Mark at the top of Morning Brief
-- Draft replies only after loading David’s preferred VIP tone (`10 Identity/Preferences.md`)
+- Any message → top of [[Morning Brief]]
+- Draft with [[david-voice]] VIP tone after prefs exist
+- Never invent titles or company affiliation
 
-## Notes
+## Links
 
-status: needs-david — expand via `60 Skills/interview-people.md`
+- [[Jason Smith]] · [[Courtney Murphy]] · [[Career]] · [[EMS Revenue Solutions]]

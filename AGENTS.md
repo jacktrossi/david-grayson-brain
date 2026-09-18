@@ -2,29 +2,30 @@
 
 You are operating inside **David Grayson’s second brain**. Treat every file as durable memory. Prefer reading and updating vault notes over inventing facts.
 
+**Principal:** [[David Grayson]] — [LinkedIn](https://www.linkedin.com/in/david-grayson-519b713a)  
+**Start:** `00 Home/Dashboard.md` · `CLAUDE.md` · `10 Identity/IDENTITY.md` · `10 Identity/Career.md`
+
 ## Read order (every session)
 
-1. `CLAUDE.md` — identity kernel
-2. `10 Identity/IDENTITY.md` — expanded identity
-3. `00 Home/Dashboard.md` — map of the vault
-4. Then only the folders relevant to the task (`40 Brands/`, `60 Skills/`, etc.)
+1. `CLAUDE.md` — identity kernel  
+2. `10 Identity/IDENTITY.md` + `Career.md`  
+3. `00 Home/Dashboard.md`  
+4. Then only folders relevant to the task  
 
 ## Hard rules
 
-1. **Venue order is sacred.** Always: Whiskey Ranch → Estelle’s Diner → 1929. Oxford, MS is the city, not a venue.
-2. **No Grayson Financial.** That firm does not exist. No RIA / investment-advisor persona.
-3. **Never invent.** Brands, hex codes, Toast numbers, preferences, VIP details — if missing, mark `needs-david` or run an interview skill.
-4. **Venue brand isolation.** Never apply Whiskey Ranch voice/visuals to Estelle’s or 1929 (and vice versa). Load `40 Brands/[Venue]/` first.
-5. **Toast is read-first.** No menu edits, payouts, clock changes, or destructive Toast actions unless David explicitly confirms.
-6. **Passwords never in vault.** Pause on login walls; David authenticates.
-7. **Write durable notes.** Interview answers and Toast pulls belong in files, not only chat.
+1. **Venue order is sacred.** Always: **Whiskey Ranch → Estelle’s → 1929**. Oxford, MS is the city, not a venue. Guest-facing name is **Estelle’s** (not “Diner”). **1929** is the unmarked back bar at Estelle’s — still venue #3.
+2. **No Grayson Financial.** That firm does not exist.
+3. **Public beats stale discovery when they conflict** — cite `90 Sources/Public-Profile.md`; flag conflicts for David (especially [[Brewster Ambulance]]).
+4. **Never invent.** Brands, hex, Toast numbers, VIP firm affiliations — mark `needs-david` or interview.
+5. **Venue brand isolation.** Load `40 Brands/[Venue]/` first. Never mix Ranch / Estelle’s / 1929 voice.
+6. **Toast is read-first.** No destructive Toast actions without explicit confirm.
+7. **Passwords never in vault.**
+8. **Write durable notes.** Chat is temporary; vault is memory. Wiki-link people ↔ orgs ↔ brands.
 
-## Write rules
+## Graph habits
 
-- Use templates in `70 Templates/` when available
-- Frontmatter: include `status`, `updated`, and relevant tags
-- After interviews: list exact paths created/updated
-- Put unfiled captures in `Inbox/`
+When updating a note, add links to: parent org, sister venues, brand kit, relevant VIPs, and Dashboard/MOC indexes (`20 People/Index`, `30 Organizations/Index`, `60 Skills/Index`).
 
 ## Skill triggers
 
@@ -38,8 +39,8 @@ You are operating inside **David Grayson’s second brain**. Treat every file as
 
 ## Quality bar (design & brand)
 
-Outputs for BHG brands must feel **Fable-5 intentional**: sparse, premium, coherent. Ban generic restaurant AI slop (fake script fonts as the whole identity, purple gradients, stock “cheers” as the brand).
+Fable-5 intentional: sparse, premium, coherent. Ban generic restaurant AI slop.
 
 ## Platforms
 
-See `00 Home/How to plug this into ChatGPT Claude Cursor.md`. Toast browser automation requires Cursor (or similar) browser tools; elsewhere follow the manual checklist inside `get-toast-data`.
+`00 Home/How to plug this into ChatGPT Claude Cursor.md` — Toast browser skill prefers Cursor.

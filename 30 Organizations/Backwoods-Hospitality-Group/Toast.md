@@ -1,56 +1,48 @@
 ---
 title: Toast
-status: seed
+status: expanded
 updated: 2026-09-18
 tags: [toast, ops, bhg]
 ---
 
 # Toast POS — Backwoods Hospitality Group
 
-All three venues operate on Toast. Primary skill: `60 Skills/get-toast-data.md`.
+All three concepts: [[Whiskey Ranch]] → [[Estelle’s]] → [[1929]].  
+Skill: `60 Skills/get-toast-data.md` · Pulls: `80 Journal-Meetings/Toast/`
 
 ## Login
 
 - URL: https://www.toasttab.com/login (or Toast Web URL David uses) — confirm: needs-david
-- **Never store passwords here.** David authenticates in-browser when prompted.
+- **Never store passwords here.**
 
 ## Venue switcher labels (canonical order)
 
-| Order | Venue | Toast restaurant name (exact UI label) |
-|-------|-------|----------------------------------------|
-| 1 | Whiskey Ranch | needs-david |
-| 2 | Estelle’s Diner | needs-david |
-| 3 | 1929 | needs-david |
+| Order | Venue | Toast restaurant name (exact UI label) | Notes |
+|-------|-------|----------------------------------------|-------|
+| 1 | [[Whiskey Ranch]] | needs-david | Bar & grill |
+| 2 | [[Estelle’s]] | needs-david | Dining + brunch |
+| 3 | [[1929]] | needs-david | May be nested revenue center under Estelle’s — confirm |
 
 ## Default morning pulse
 
-Per venue:
-
-- Yesterday + today sales
-- Labor % (or hours vs sales)
-- Anything odd: voids, comps, open tickets
+Per venue: yesterday + today sales · labor signal · voids/comps/open tickets oddities.
 
 ## Normal vs fire
 
-| Venue | Normal looks like | Fire looks like |
-|-------|-------------------|-----------------|
+| Venue | Normal | Fire |
+|-------|--------|------|
 | Whiskey Ranch | needs-david | needs-david |
-| Estelle’s Diner | needs-david | needs-david |
+| Estelle’s | needs-david | needs-david |
 | 1929 | needs-david | needs-david |
 
-Fill via `60 Skills/interview-ops-morning.md`.
+Fill via `interview-ops-morning`.
 
-## Report map (where to click)
+## Report map
 
-| Need | Toast area (update after live nav) |
-|------|-------------------------------------|
-| Sales summary | needs-david |
-| Labor | needs-david |
-| Voids / comps | needs-david |
-| Menu / item mix | needs-david |
-| Employees / shifts | needs-david |
+| Need | Toast area |
+|------|------------|
+| Sales / labor / voids / menu / employees | needs-david after first live pull |
 
 ## Related
 
-- Template: `70 Templates/Toast-Pull.md`
-- Pulls land in: `80 Journal-Meetings/Toast/`
+[[Morning Brief]] · [[Backwoods Hospitality Group]] · [[Oxford Square]]

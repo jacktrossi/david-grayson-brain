@@ -7,44 +7,50 @@ tags: [moc, home]
 
 # David Grayson — Second Brain
 
-**Start here.** This vault is David’s portable second brain for ChatGPT, Claude, Cursor, and any agent.
+**Start here.** Portable brain for ChatGPT, Claude, Cursor, and any agent.
+
+**Who:** [[David Grayson]] — EMS entrepreneur + CEO of [[Backwoods Hospitality Group]] · Oxford, MS  
+**LinkedIn:** [david-grayson-519b713a](https://www.linkedin.com/in/david-grayson-519b713a)
 
 ## First spin-up
 
-Say: **run onboarding interview**
+Say: **run onboarding interview** → `60 Skills/interview-onboarding.md`
 
-That runs `60 Skills/interview-onboarding.md` and writes durable notes into this vault.
+## Life map
+
+| Lane | Notes |
+|------|-------|
+| Hospitality | [[BHG]] → [[Whiskey Ranch]] → [[Estelle’s]] → [[1929]] on [[Oxford Square]] |
+| EMS now | [[EMS Revenue Solutions]] |
+| EMS history | [[CareMed EMS]] → AmeriPro |
+| VIPs | [[Mark Brewster]] · [[Jason Smith]] · [[Courtney Murphy]] |
+| Unverified | [[Brewster Ambulance]] (discovery vs LinkedIn) |
 
 ## Canonical venues (always this order)
 
-1. [[Whiskey Ranch]] → `30 Organizations/Whiskey-Ranch/` · `40 Brands/Whiskey-Ranch/`
-2. [[Estelle’s Diner]] → `30 Organizations/Estelles-Diner/` · `40 Brands/Estelles-Diner/`
-3. [[1929]] → `30 Organizations/1929/` · `40 Brands/1929/`
-
-Parent: [[Backwoods Hospitality Group]]
+1. [[Whiskey Ranch]] — org + `40 Brands/Whiskey-Ranch/`
+2. [[Estelle’s]] — org + `40 Brands/Estelles-Diner/`
+3. [[1929]] — org + `40 Brands/1929/` (back bar at Estelle’s)
 
 ## Map
 
 | Area | Path |
 |------|------|
 | Agent contract | `AGENTS.md` · `CLAUDE.md` |
-| Identity | `10 Identity/` |
-| People / VIPs | `20 People/` |
+| Identity / career | `10 Identity/` · [[Career]] |
+| People | `20 People/` |
 | Organizations | `30 Organizations/` |
-| Brand kits | `40 Brands/` |
-| Playbooks | `50 Playbooks/` |
-| Skills | `60 Skills/` |
-| Templates | `70 Templates/` |
-| Journal / Toast pulls | `80 Journal-Meetings/` |
-| Sources | `90 Sources/` |
-| Inbox | `Inbox/` |
+| Brands | `40 Brands/` |
+| Playbooks | `50 Playbooks/` · [[Morning Brief]] |
+| Skills | `60 Skills/` · [[get-toast-data]] |
+| Sources | `90 Sources/` · [[Public Profile]] |
 
 ## High-leverage commands
 
-- **morning brief** → `50 Playbooks/Morning-Brief.md`
-- **get Toast data** → `60 Skills/get-toast-data.md`
-- **interview [venue] brand** → `60 Skills/interview-brand-venue.md`
-- **fill vault gaps** → `60 Skills/interview-gap-fill.md`
+- **morning brief** → Toast all three venues + VIP + mail
+- **get Toast data** → browser / checklist pull
+- **interview [venue] brand** → fill kit gaps
+- **fill vault gaps** → `interview-gap-fill`
 
 ## Plug into any LLM
 

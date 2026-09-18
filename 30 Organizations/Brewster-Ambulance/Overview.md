@@ -1,22 +1,31 @@
 ---
 title: Brewster Ambulance
-status: seed
+status: unverified
 updated: 2026-09-18
-tags: [org, brewster]
+tags: [org, needs-david]
 ---
 
 # Brewster Ambulance
 
-David’s primary Boston work context. Email: Office 365 — **HIGH** priority (“the Boston one”).
+## Status: needs verification
 
-## Role
+Discovery interview (2026-05-24) listed **Brewster Ambulance Office 365** as David’s most critical work email (“the Boston one,” HIGH).
 
-status: needs-david (title / responsibilities)
+**Public LinkedIn does not list Brewster Ambulance employment.** It centers CareMed → AmeriPro → [[EMS Revenue Solutions]] and [[Backwoods Hospitality Group]].
 
-## VIP overlap
+Likely possibilities (do not assume):
 
-[[Mark Brewster]] may relate — confirm via interview-people.
+1. Partner / client / billing relationship  
+2. Confusion with VIP [[Mark Brewster]]  
+3. Account label David uses that isn’t a formal employer  
+4. Outdated discovery note  
 
-## Open loops
+## Until David confirms
 
-status: needs-david
+- Keep VIP handling for [[Mark Brewster]]  
+- Do not invent Boston Brewster job titles  
+- Ask in `interview-onboarding` / `interview-ops-morning`  
+
+## Related
+
+- [[Career]] · [[EMS Revenue Solutions]] · [[Mark Brewster]]  
