@@ -1,0 +1,14 @@
+{
+  "name": "@graysonos/shared",
+  "version": "0.1.0",
+  "private": true,
+  "description": "GraysonOS shared TypeScript types matching all Supabase tables",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "lint": "eslint src",
+    "typecheck": "tsc --noEmit"
+  }
+}
